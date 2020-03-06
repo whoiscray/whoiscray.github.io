@@ -8,10 +8,10 @@
 	<head>
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<title>Beryllium &mdash; Free Website Template, Free HTML5 Template by FreeHTML5.co</title>
+	<title>Conor Creagh-Peschau</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<meta name="description" content="Free HTML5 Website Template by FreeHTML5.co" />
-	<meta name="keywords" content="free website templates, free html5, free template, free bootstrap, free website template, html5, css3, mobile first, responsive" />
+	<meta name="description" content="portfolio" />
+	<meta name="keywords" content="" />
 	<meta name="author" content="FreeHTML5.co" />
 
   	<!-- Facebook and Twitter integration -->
@@ -212,55 +212,6 @@
 			</div>
 		</div>
 		<!-- END Work -->
-
-		<div class="gtco-section">
-			<div class="gtco-container">
-				<div class="row">
-					<div class="col-md-6 gtco-news">
-						<h2>News</h2>	
-						<ul>
-							<li>
-								<a href="#">
-									<span class="post-date">September 10, 2016</span>
-									<h3>Manila Bridge Re-construction</h3>
-									<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus placerat enim et urna sagittis, rhoncus euismod...</p>
-								</a>
-							</li>
-
-							<li>
-								<a href="#">
-									<span class="post-date">September 10, 2016</span>
-									<h3>Manila Bridge Re-construction</h3>
-									<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus placerat enim et urna sagittis, rhoncus euismod...</p>
-								</a>
-							</li>
-
-							<li>
-								<a href="#">
-									<span class="post-date">September 10, 2016</span>
-									<h3>Manila Bridge Re-construction</h3>
-									<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus placerat enim et urna sagittis, rhoncus euismod...</p>
-								</a>
-							</li>
-						</ul>
-						<p><a href="#" class="btn btn-sm btn-special">More News</a></p>
-					</div>
-					<!-- END News -->
-					<div class="col-md-5 col-md-push-1 gtco-testimonials">
-						<h2>Testimonials</h2>
-						<blockquote>
-							<p>&ldquo;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus placerat enim et urna sagittis, rhoncus euismod erat tincidunt. Donec tincidunt volutpat erat.&ldquo;</p>
-							<p class="author"><cite>&mdash; John Doe Dueller</cite></p>
-						</blockquote>
-						<blockquote>
-							<p>&ldquo;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus placerat enim et urna sagittis, rhoncus euismod erat tincidunt. Donec tincidunt volutpat erat.&ldquo;</p>
-							<p class="author"><cite>&mdash; John Doe Dueller</cite></p>
-						</blockquote>
-					</div>
-				</div>
-			</div>
-		</div>
-		<!-- END  -->
 
 		<div class="gtco-section gto-features">
 			<div class="gtco-container">
