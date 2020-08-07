@@ -1,3 +1,20 @@
 body {
-    color: darkslategray
+    color: darkslategray;
+    width: 60%;
+    margin: auto;
+    background-color: ghostwhite;
+}
+h1 {
+    font-size : 300%;
+    text-align: center;
+}
+header {
+    background-color: grey;
+}
+section  {
+    background-color: khaki;
+}
+footer {
+    background-color: grey;
+
 }
