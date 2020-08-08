@@ -10,11 +10,39 @@ h1 {
 }
 header {
     background-color: grey;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+nav {
+    text-align: center;
+    order: inline;
+    background-color: darkslategray;
+
+    padding-top: 20px;
+    padding-bottom: 20px;
+
+}
+nav a {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-right: 20px;
+    margin-left: 20px;
 }
 section  {
     background-color: khaki;
 }
 footer {
     background-color: grey;
-
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-align: center;
+}
+#widgets {
+    width: 90%;
+    margin: auto;
+    background-color: ghostwhite;
+}
+#widgets section  {
+    background-color: khaki;
+    max-width: 30%;
 }
