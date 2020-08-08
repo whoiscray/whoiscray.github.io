@@ -1,26 +1,27 @@
 body {
-    color: darkslategray;
+    color: #FFF275;
     width: 60%;
     margin: auto;
-    background-color: ghostwhite;
+    background-color: #564D65;
+    font-family: Arial, Helvetica, sans-serif;
 }
 h1 {
     font-size : 300%;
     text-align: center;
 }
 header {
-    background-color: grey;
+    background-color: #1A181B;
     padding-top: 20px;
     padding-bottom: 20px;
 }
 nav {
     text-align: center;
-    order: inline;
-    background-color: darkslategray;
-
+    background-color: #3E8989;
     padding-top: 20px;
     padding-bottom: 20px;
-
+    text-transform: uppercase;
+    text-decoration: none;
+    
 }
 nav a {
     margin-top: 20px;
@@ -29,20 +30,29 @@ nav a {
     margin-left: 20px;
 }
 section  {
-    background-color: khaki;
+    background-color: #3E8989;
 }
 footer {
     background-color: grey;
     padding-top: 20px;
     padding-bottom: 20px;
     text-align: center;
+    clear: both;
+    background-color: #1A181B;
 }
 #widgets {
-    width: 90%;
+    width: 100%;
     margin: auto;
     background-color: ghostwhite;
+    
 }
 #widgets section  {
-    background-color: khaki;
-    max-width: 30%;
+    text-align: center;
+    width: 30%;
+    float: left;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-right: 10px;
+    margin-left: 10px;
+    
 }

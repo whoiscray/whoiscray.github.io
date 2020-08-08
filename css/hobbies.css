@@ -1,0 +1,9 @@
+.hobby_images {
+    max-width: 25%;
+    height: 250px;
+    
+}
+.hobby_images img {
+    float: left;
+    
+}
