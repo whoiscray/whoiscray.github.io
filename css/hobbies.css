@@ -9,4 +9,5 @@
 }
 .hobby_images p {
     max-width: 75%;
+    float: right;
 }
