@@ -1,3 +1,8 @@
+##Work In Progress Personal Website Project
+#Purpose
+To practice creating and maintaining a personal website, in order to showcase abilities of web design, user experience design and software development.
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/whoiscray/whoiscray.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
