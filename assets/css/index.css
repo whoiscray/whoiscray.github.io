@@ -1,3 +1,9 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+  }
+
 body {
     color: #FFF275;
     width: 60%;
@@ -7,7 +13,10 @@ body {
 }
 h1 {
     font-size : 300%;
-    text-align: center;
+    text-align: left;
+    font-family: 'Oswald', sans-serif;
+    margin-bottom: 20px;
+    padding-left: 20px;
 }
 header {
     background-color: #1A181B;
@@ -28,10 +37,15 @@ nav a {
     margin-bottom: 20px;
     margin-right: 20px;
     margin-left: 20px;
+    color: #FFF275;
+    text-decoration: none;
 }
-section  {
-    background-color: #3E8989;
+#active {
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    border-bottom-color: #FFF275;
 }
+
 footer {
     background-color: grey;
     padding-top: 20px;
@@ -48,11 +62,9 @@ footer {
 }
 #widgets section  {
     text-align: center;
+    height: 600px;
     width: 30%;
     float: left;
-    margin-top: 20px;
-    margin-bottom: 20px;
-    margin-right: 10px;
-    margin-left: 10px;
-    
+    margin: 0 auto;
+    border: 1px solid white;
 }
