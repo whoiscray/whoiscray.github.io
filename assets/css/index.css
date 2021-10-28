@@ -1,3 +1,6 @@
+#banner-title a {
+    text-decoration: none;
+}
 #landing-image {
     margin-top: 200px;
     margin-bottom: 200px;
