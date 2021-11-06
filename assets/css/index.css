@@ -4,6 +4,10 @@
 #landing-image {
     margin-top: 200px;
     margin-bottom: 200px;
+    max-width: 90%;
+}
+#landing-buttons {
+    max-width: 80%;
 }
 .widget {
     margin-top: 100px;
