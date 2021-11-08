@@ -1,7 +1,11 @@
+body {
+  font-family: 'Cairo:wght@300', Arial, Helvetica, sans-serif;
+}
 #banner-title a {
     text-decoration: none;
 }
 #landing-image {
+  font-family: 'Red+Hat+Mono', Arial, Helvetica, sans-serif;
     margin-top: 400px;
     margin-bottom: 500px;
     max-width: 90%;
