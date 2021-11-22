@@ -1,9 +1,6 @@
 body {
   font-family: 'Cairo:wght@300', Arial, Helvetica, sans-serif;
 }
-#banner-title a {
-    text-decoration: none;
-}
 #landing-image {
   font-family: 'Red+Hat+Mono', Arial, Helvetica, sans-serif;
     margin-top: 400px;
@@ -12,6 +9,15 @@ body {
 }
 #landing-buttons {
     max-width: 80%;
+}
+#landing-buttons a {
+  color: #000000;
+  font-size: 1.15em;
+  text-decoration: none;
+}
+#landing-buttons a:hover {
+  color: #6757ca;
+  font-size: 1.2em;
 }
 .navbar-item {
     font-size: 200%;
