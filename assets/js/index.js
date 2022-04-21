@@ -1,3 +1,4 @@
+//Scroll to Top Function
 jQuery(document).ready(function() {
     var offset = 220;
     var duration = 300;

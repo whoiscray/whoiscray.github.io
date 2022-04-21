@@ -51,7 +51,7 @@ body {
 @media only screen and (max-width: 600px) {
   #landing-image {
     margin-top: 100px;
-    margin-bottom: 200px;
+    margin-bottom: 450px;
     max-width: 100%;
     text-align: center;
   }
@@ -65,12 +65,16 @@ body {
   }
 
   #landing-buttons a {
+    font-size: 1.5em;
+    text-decoration: none;
     border-bottom: 1px solid #3e3d3d;
   }
 
-  #landing-buttons a {
-    color: #000000;
-    font-size: 1.5em;
-    text-decoration: none;
+  #contact-section .nav-link {
+    text-align: center;
+  }
+
+  footer {
+    text-align: center;
   }
 }
