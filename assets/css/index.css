@@ -3,12 +3,12 @@ body {
 }
 #landing-image {
   font-family: 'Red+Hat+Mono', Arial, Helvetica, sans-serif;
-    margin-top: 400px;
-    margin-bottom: 500px;
-    max-width: 90%;
+  margin-top: 400px;
+  margin-bottom: 500px;
+  max-width: 90%;
 }
 #landing-buttons {
-    max-width: 80%;
+  max-width: 80%;
 }
 #landing-buttons a {
   color: #000000;
@@ -20,12 +20,12 @@ body {
   font-size: 1.2em;
 }
 .navbar-item {
-    font-size: 200%;
-    margin-right: 20px;
+  font-size: 200%;
+  margin-right: 20px;
 }
 .widget {
-    margin-top: 100px;
-    margin-bottom: 100px;
+  margin-top: 100px;
+  margin-bottom: 100px;
 }
 
 /* Back to Top Button CSS */
@@ -44,4 +44,33 @@ body {
 
 .back-to-top:hover {    
   background-color: rgba(135, 135, 135, 0.50);
+}
+
+/* Media Queries */
+
+@media only screen and (max-width: 600px) {
+  #landing-image {
+    margin-top: 100px;
+    margin-bottom: 200px;
+    max-width: 100%;
+    text-align: center;
+  }
+
+  #landing-image h2 {
+    font-size: 2.5em;
+  }
+
+  #landing-image h3 {
+    font-size: 1.2em;
+  }
+
+  #landing-buttons a {
+    border-bottom: 1px solid #3e3d3d;
+  }
+
+  #landing-buttons a {
+    color: #000000;
+    font-size: 1.5em;
+    text-decoration: none;
+  }
 }
